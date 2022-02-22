@@ -1,0 +1,15 @@
+{
+  "projectId": "h88iyt",
+  "baseUrl": "https://stage-core.onetouch.io/",
+  "defaultCommandTimeout": 10000,
+  "chromeWebSecurity": false,
+  "video": false,
+  "fixturesFolder": "fixtures",
+  "integrationFolder": "specs",
+  "pluginsFile": "plugins",
+  "screenshotsFolder": "./cypress/screenshots",
+  "reporter": "cypress-mochawesome-reporter",
+  "supportFile": "./support/index.js",
+  "viewportWidth": 1600,
+  "viewportHeight": 1200
+}
